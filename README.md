@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+i'm Mohammed, an mobile developer based in Egypt
+I design and build whatever I can imagine.
+
+My main tech stack is swift, swiftui and Xcode/Vscode
+
 <!--
 **mohammedlshnawy/mohammedlshnawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
