@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-i'm Mohammed, an mobile developer based in Egypt
+i'm Mohammed, a mobile developer based in Egypt
 
 I design and build whatever I can imagine.
 
