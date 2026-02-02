@@ -1,6 +1,11 @@
 ## Hi there 👋
 
+i'm Mohammed, a mobile developer based in Egypt
+
 <!--
+My main tech stack is Flutter, Dart, VScode, Supbase/Firebase
+
+
 **mohammedlshnawy/mohammedlshnawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
